@@ -6,7 +6,7 @@
 
 ## Was ist die Skill Factory?
 
-33 strukturierte Consulting-Frameworks für alle Bereiche der B2B Revenue Engine. Jeder Skill ist ein eigenständiges Diagnosewerkzeug — praxisnah, datengetrieben und executive-tauglich.
+33 strukturierte Growth-Frameworks für alle Bereiche der B2B Revenue Engine. Jeder Skill ist ein eigenständiges Diagnosewerkzeug — praxisnah, datengetrieben und executive-tauglich.
 
 Einsetzbar als:
 - Self-Assessment für Wachstumsverantwortliche
