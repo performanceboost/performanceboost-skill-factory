@@ -22,7 +22,7 @@ Einsetzbar als:
 |---|---|---|
 | **Strategy** | 4 | GTM, ICP, Positionierung, Wachstumschancen |
 | **Demand Generation** | 4 | Pipeline-Gap, Content-Attribution, Lead-Diagnose |
-| **Revenue Operations** | 5 | Funnel-Leckage, CRM-Qualität, Lifecycle-Stages |
+| **Revenue Operations** | 6 | Funnel-Leckage, CRM-Qualität, Lifecycle-Stages, Stack-Inventur |
 | **Marketing Automation** | 4 | Reifegradmodell, Nurturing, Workflow-Scanner |
 | **Sales** | 4 | Sales-Prozess, Enablement, Pipeline-Hygiene |
 | **AI & Automation** | 4 | Readiness, Agentic Opportunities, Use-Case-Discovery |

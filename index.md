@@ -28,7 +28,7 @@ Jeder Skill ist ein präzises Werkzeug für einen spezifischen Wachstumshebel �
 | Content-to-Pipeline Audit | `content-to-pipeline-audit.md` | Misst, welcher Content zu Pipeline beiträgt vs. nur Traffic generiert — mit echter CRM-Attribution |
 | Lead Generation Diagnostic | `lead-generation-diagnostic.md` | Vollständige Diagnose der Lead-Generierungs-Infrastruktur: Kanäle, Conversion-Pfade und MQL-Qualität |
 
-### Revenue Operations (5 Skills)
+### Revenue Operations (6 Skills)
 
 | Skill | Datei | Kurzbeschreibung |
 |---|---|---|
@@ -37,6 +37,7 @@ Jeder Skill ist ein präzises Werkzeug für einen spezifischen Wachstumshebel �
 | Lead Routing Assessment | `lead-routing-assessment.md` | Prüft ob Leads richtig, schnell und nachvollziehbar zu den richtigen Reps gelangen |
 | Lifecycle Stage Audit | `lifecycle-stage-audit.md` | Bewertet Definition, Konsistenz und Datenqualität der Lifecycle-Stages im CRM |
 | CRM Data Quality Check | `crm-data-quality-check.md` | Systematische Bewertung der CRM-Datenqualität: Vollständigkeit, Aktualität, Duplikate, Verwertbarkeit |
+| MarTech Stack Inventory | `martech-stack-inventory.md` | Inventur aller Marketing- und Vertriebstools mit Kosten, Nutzung, Datenflüssen und Entscheid pro Tool |
 
 ### Marketing Automation (4 Skills)
 
